@@ -1,0 +1,13 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/obj/Debug/netcoreapp2.0/CustomerService.csprojResolveAssemblyReference.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/obj/Debug/netcoreapp2.0/CustomerService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/obj/Debug/netcoreapp2.0/CustomerService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/obj/Debug/netcoreapp2.0/CustomerService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/bin/Debug/netcoreapp2.0/CustomerService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/bin/Debug/netcoreapp2.0/CustomerService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/bin/Debug/netcoreapp2.0/CustomerService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/bin/Debug/netcoreapp2.0/CustomerService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/bin/Debug/netcoreapp2.0/CustomerService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/bin/Debug/netcoreapp2.0/CustomerService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/bin/Debug/netcoreapp2.0/CustomerService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/obj/Debug/netcoreapp2.0/CustomerService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/CustomerService/obj/Debug/netcoreapp2.0/CustomerService.pdb

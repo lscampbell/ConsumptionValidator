@@ -1,0 +1,15 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/obj/Debug/netcoreapp2.0/DuosChargeService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/obj/Debug/netcoreapp2.0/DuosChargeService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/obj/Debug/netcoreapp2.0/DuosChargeService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/DuosChargeService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/DuosChargeService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/DuosChargeService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/DuosChargeService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/DuosChargeService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/DuosChargeService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/LoggingService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/DuosChargeService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/bin/Debug/netcoreapp2.0/LoggingService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/obj/Debug/netcoreapp2.0/DuosChargeService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/obj/Debug/netcoreapp2.0/DuosChargeService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService/obj/Debug/netcoreapp2.0/DuosChargeService.csprojResolveAssemblyReference.cache

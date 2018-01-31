@@ -1,0 +1,15 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/obj/Debug/netcoreapp2.0/ProfileDataService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/obj/Debug/netcoreapp2.0/ProfileDataService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/obj/Debug/netcoreapp2.0/ProfileDataService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/ProfileDataService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/ProfileDataService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/ProfileDataService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/ProfileDataService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/ProfileDataService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/LoggingService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/ProfileDataService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/ProfileDataService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/bin/Debug/netcoreapp2.0/LoggingService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/obj/Debug/netcoreapp2.0/ProfileDataService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/obj/Debug/netcoreapp2.0/ProfileDataService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileDataService/obj/Debug/netcoreapp2.0/ProfileDataService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/bin/Debug/netcoreapp2.0/SupplyPointService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/bin/Debug/netcoreapp2.0/SupplyPointService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/bin/Debug/netcoreapp2.0/SupplyPointService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/bin/Debug/netcoreapp2.0/SupplyPointService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/bin/Debug/netcoreapp2.0/SupplyPointService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/bin/Debug/netcoreapp2.0/SupplyPointService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/bin/Debug/netcoreapp2.0/SupplyPointService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/obj/Debug/netcoreapp2.0/SupplyPointService.csprojResolveAssemblyReference.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/obj/Debug/netcoreapp2.0/SupplyPointService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/obj/Debug/netcoreapp2.0/SupplyPointService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/obj/Debug/netcoreapp2.0/SupplyPointService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/obj/Debug/netcoreapp2.0/SupplyPointService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService/obj/Debug/netcoreapp2.0/SupplyPointService.pdb

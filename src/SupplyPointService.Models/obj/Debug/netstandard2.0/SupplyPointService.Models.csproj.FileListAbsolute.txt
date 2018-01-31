@@ -1,0 +1,8 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService.Models/bin/Debug/netstandard2.0/SupplyPointService.Models.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService.Models/bin/Debug/netstandard2.0/SupplyPointService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService.Models/bin/Debug/netstandard2.0/SupplyPointService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService.Models/obj/Debug/netstandard2.0/SupplyPointService.Models.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService.Models/obj/Debug/netstandard2.0/SupplyPointService.Models.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService.Models/obj/Debug/netstandard2.0/SupplyPointService.Models.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService.Models/obj/Debug/netstandard2.0/SupplyPointService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/SupplyPointService.Models/obj/Debug/netstandard2.0/SupplyPointService.Models.pdb

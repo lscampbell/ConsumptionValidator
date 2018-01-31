@@ -1,0 +1,12 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/bin/Debug/netcoreapp2.0/TuosLossService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/bin/Debug/netcoreapp2.0/TuosLossService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/bin/Debug/netcoreapp2.0/TuosLossService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/bin/Debug/netcoreapp2.0/TuosLossService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/bin/Debug/netcoreapp2.0/TuosLossService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/bin/Debug/netcoreapp2.0/TuosLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/bin/Debug/netcoreapp2.0/TuosLossService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/obj/Debug/netcoreapp2.0/TuosLossService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/obj/Debug/netcoreapp2.0/TuosLossService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/obj/Debug/netcoreapp2.0/TuosLossService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/obj/Debug/netcoreapp2.0/TuosLossService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService/obj/Debug/netcoreapp2.0/TuosLossService.pdb

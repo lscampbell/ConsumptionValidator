@@ -1,0 +1,12 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/obj/Debug/netcoreapp2.0/TotalsService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/obj/Debug/netcoreapp2.0/TotalsService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/obj/Debug/netcoreapp2.0/TotalsService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/bin/Debug/netcoreapp2.0/TotalsService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/bin/Debug/netcoreapp2.0/TotalsService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/bin/Debug/netcoreapp2.0/TotalsService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/bin/Debug/netcoreapp2.0/TotalsService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/bin/Debug/netcoreapp2.0/TotalsService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/bin/Debug/netcoreapp2.0/TotalsService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/bin/Debug/netcoreapp2.0/TotalsService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/obj/Debug/netcoreapp2.0/TotalsService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/TotalsService/obj/Debug/netcoreapp2.0/TotalsService.pdb

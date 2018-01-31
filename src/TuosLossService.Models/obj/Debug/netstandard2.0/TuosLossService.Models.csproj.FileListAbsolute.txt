@@ -1,0 +1,8 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService.Models/obj/Debug/netstandard2.0/TuosLossService.Models.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService.Models/obj/Debug/netstandard2.0/TuosLossService.Models.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService.Models/obj/Debug/netstandard2.0/TuosLossService.Models.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService.Models/bin/Debug/netstandard2.0/TuosLossService.Models.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService.Models/bin/Debug/netstandard2.0/TuosLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService.Models/bin/Debug/netstandard2.0/TuosLossService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService.Models/obj/Debug/netstandard2.0/TuosLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/TuosLossService.Models/obj/Debug/netstandard2.0/TuosLossService.Models.pdb

@@ -1,0 +1,10 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/bin/Debug/netcoreapp2.0/DemoDataImporter.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/bin/Debug/netcoreapp2.0/DemoDataImporter.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/bin/Debug/netcoreapp2.0/DemoDataImporter.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/bin/Debug/netcoreapp2.0/DemoDataImporter.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/bin/Debug/netcoreapp2.0/DemoDataImporter.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/obj/Debug/netcoreapp2.0/DemoDataImporter.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/obj/Debug/netcoreapp2.0/DemoDataImporter.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/obj/Debug/netcoreapp2.0/DemoDataImporter.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/obj/Debug/netcoreapp2.0/DemoDataImporter.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DemoDataImporter/obj/Debug/netcoreapp2.0/DemoDataImporter.pdb

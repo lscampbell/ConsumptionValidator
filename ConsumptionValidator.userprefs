@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C26B54D6-52E9-479E-BE77-32DF1A7B7E8A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/DistTransLossService/Controllers/DistributionController.cs">
+    <Files>
+      <File FileName="src/CalculatorService/Sql/Populate.sql" Line="238" Column="7" />
+      <File FileName="src/CalculatorService/Sql/Setup.sql" Line="1" Column="1" />
+      <File FileName="src/CalculatorService/Sql/Queries.sql" Line="1" Column="1" />
+      <File FileName="src/DistTransLossService/Controllers/DistributionController.cs" Line="23" Column="1" />
+      <File FileName="src/CalculatorService/GetDataObject.cs" Line="1" Column="1" />
+      <File FileName="src/DuosChargeService/Module.cs" Line="24" Column="10" />
+      <File FileName="src/LossFactorService/Module.cs" Line="10" Column="28" />
+      <File FileName="src/DistTransLossService.Models/Distribution.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.src.ConsumptionValidator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

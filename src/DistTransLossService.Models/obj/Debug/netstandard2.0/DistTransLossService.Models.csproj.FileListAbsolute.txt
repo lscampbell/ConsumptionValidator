@@ -1,0 +1,8 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService.Models/bin/Debug/netstandard2.0/DistTransLossService.Models.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService.Models/bin/Debug/netstandard2.0/DistTransLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService.Models/bin/Debug/netstandard2.0/DistTransLossService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService.Models/obj/Debug/netstandard2.0/DistTransLossService.Models.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService.Models/obj/Debug/netstandard2.0/DistTransLossService.Models.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService.Models/obj/Debug/netstandard2.0/DistTransLossService.Models.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService.Models/obj/Debug/netstandard2.0/DistTransLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService.Models/obj/Debug/netstandard2.0/DistTransLossService.Models.pdb

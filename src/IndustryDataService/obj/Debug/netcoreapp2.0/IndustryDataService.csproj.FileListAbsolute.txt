@@ -1,0 +1,13 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/obj/Debug/netcoreapp2.0/IndustryDataService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/obj/Debug/netcoreapp2.0/IndustryDataService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/obj/Debug/netcoreapp2.0/IndustryDataService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/bin/Debug/netcoreapp2.0/IndustryDataService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/bin/Debug/netcoreapp2.0/IndustryDataService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/bin/Debug/netcoreapp2.0/IndustryDataService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/bin/Debug/netcoreapp2.0/IndustryDataService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/bin/Debug/netcoreapp2.0/IndustryDataService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/obj/Debug/netcoreapp2.0/IndustryDataService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/obj/Debug/netcoreapp2.0/IndustryDataService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/bin/Debug/netcoreapp2.0/IndustryDataService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/bin/Debug/netcoreapp2.0/IndustryDataService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/IndustryDataService/obj/Debug/netcoreapp2.0/IndustryDataService.csprojResolveAssemblyReference.cache

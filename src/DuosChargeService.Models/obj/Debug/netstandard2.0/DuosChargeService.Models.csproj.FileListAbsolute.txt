@@ -1,0 +1,9 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/bin/Debug/netstandard2.0/DuosChargeService.Models.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/bin/Debug/netstandard2.0/DuosChargeService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/bin/Debug/netstandard2.0/DuosChargeService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/obj/Debug/netstandard2.0/DuosChargeService.Models.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/obj/Debug/netstandard2.0/DuosChargeService.Models.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/obj/Debug/netstandard2.0/DuosChargeService.Models.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/obj/Debug/netstandard2.0/DuosChargeService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/obj/Debug/netstandard2.0/DuosChargeService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosChargeService.Models/obj/Debug/netstandard2.0/DuosChargeService.Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService.Models/bin/Debug/netstandard2.0/ProfileRowsService.Models.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService.Models/bin/Debug/netstandard2.0/ProfileRowsService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService.Models/bin/Debug/netstandard2.0/ProfileRowsService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService.Models/obj/Debug/netstandard2.0/ProfileRowsService.Models.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService.Models/obj/Debug/netstandard2.0/ProfileRowsService.Models.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService.Models/obj/Debug/netstandard2.0/ProfileRowsService.Models.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService.Models/obj/Debug/netstandard2.0/ProfileRowsService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService.Models/obj/Debug/netstandard2.0/ProfileRowsService.Models.pdb

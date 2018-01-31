@@ -1,0 +1,12 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/bin/Debug/netcoreapp2.0/ElexonImportService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/bin/Debug/netcoreapp2.0/ElexonImportService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/bin/Debug/netcoreapp2.0/ElexonImportService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/bin/Debug/netcoreapp2.0/ElexonImportService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/bin/Debug/netcoreapp2.0/ElexonImportService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/obj/Debug/netcoreapp2.0/ElexonImportService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/obj/Debug/netcoreapp2.0/ElexonImportService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/obj/Debug/netcoreapp2.0/ElexonImportService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/obj/Debug/netcoreapp2.0/ElexonImportService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/obj/Debug/netcoreapp2.0/ElexonImportService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/bin/Debug/netcoreapp2.0/ElexonImportService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ElexonImportService/bin/Debug/netcoreapp2.0/ElexonImportService.Models.pdb

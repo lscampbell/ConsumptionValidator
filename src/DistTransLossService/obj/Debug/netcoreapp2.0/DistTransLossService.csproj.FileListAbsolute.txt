@@ -1,0 +1,12 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/bin/Debug/netcoreapp2.0/DistTransLossService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/bin/Debug/netcoreapp2.0/DistTransLossService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/bin/Debug/netcoreapp2.0/DistTransLossService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/bin/Debug/netcoreapp2.0/DistTransLossService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/bin/Debug/netcoreapp2.0/DistTransLossService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/bin/Debug/netcoreapp2.0/DistTransLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/bin/Debug/netcoreapp2.0/DistTransLossService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/obj/Debug/netcoreapp2.0/DistTransLossService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/obj/Debug/netcoreapp2.0/DistTransLossService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/obj/Debug/netcoreapp2.0/DistTransLossService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/obj/Debug/netcoreapp2.0/DistTransLossService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DistTransLossService/obj/Debug/netcoreapp2.0/DistTransLossService.pdb

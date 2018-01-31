@@ -1,0 +1,12 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/bin/Debug/netcoreapp2.0/ProfileRowsImporter.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/bin/Debug/netcoreapp2.0/ProfileRowsImporter.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/bin/Debug/netcoreapp2.0/ProfileRowsImporter.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/bin/Debug/netcoreapp2.0/ProfileRowsImporter.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/bin/Debug/netcoreapp2.0/ProfileRowsImporter.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/bin/Debug/netcoreapp2.0/ProfileRowsService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/bin/Debug/netcoreapp2.0/ProfileRowsService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/obj/Debug/netcoreapp2.0/ProfileRowsImporter.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/obj/Debug/netcoreapp2.0/ProfileRowsImporter.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/obj/Debug/netcoreapp2.0/ProfileRowsImporter.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/obj/Debug/netcoreapp2.0/ProfileRowsImporter.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsImporter/obj/Debug/netcoreapp2.0/ProfileRowsImporter.pdb

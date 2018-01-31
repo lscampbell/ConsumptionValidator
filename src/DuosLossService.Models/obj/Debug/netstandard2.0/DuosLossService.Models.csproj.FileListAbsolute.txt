@@ -1,0 +1,8 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService.Models/obj/Debug/netstandard2.0/DuosLossService.Models.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService.Models/obj/Debug/netstandard2.0/DuosLossService.Models.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService.Models/obj/Debug/netstandard2.0/DuosLossService.Models.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService.Models/bin/Debug/netstandard2.0/DuosLossService.Models.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService.Models/bin/Debug/netstandard2.0/DuosLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService.Models/bin/Debug/netstandard2.0/DuosLossService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService.Models/obj/Debug/netstandard2.0/DuosLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService.Models/obj/Debug/netstandard2.0/DuosLossService.Models.pdb

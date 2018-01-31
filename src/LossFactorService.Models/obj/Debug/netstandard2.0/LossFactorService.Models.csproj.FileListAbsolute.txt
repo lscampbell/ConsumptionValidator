@@ -1,0 +1,9 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/obj/Debug/netstandard2.0/LossFactorService.Models.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/obj/Debug/netstandard2.0/LossFactorService.Models.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/obj/Debug/netstandard2.0/LossFactorService.Models.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/bin/Debug/netstandard2.0/LossFactorService.Models.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/bin/Debug/netstandard2.0/LossFactorService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/bin/Debug/netstandard2.0/LossFactorService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/obj/Debug/netstandard2.0/LossFactorService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/obj/Debug/netstandard2.0/LossFactorService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService.Models/obj/Debug/netstandard2.0/LossFactorService.Models.csprojResolveAssemblyReference.cache

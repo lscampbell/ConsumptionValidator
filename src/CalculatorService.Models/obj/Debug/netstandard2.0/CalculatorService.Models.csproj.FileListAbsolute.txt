@@ -1,0 +1,8 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/CalculatorService.Models/obj/Debug/netstandard2.0/CalculatorService.Models.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/CalculatorService.Models/obj/Debug/netstandard2.0/CalculatorService.Models.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/CalculatorService.Models/obj/Debug/netstandard2.0/CalculatorService.Models.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/CalculatorService.Models/bin/Debug/netstandard2.0/CalculatorService.Models.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/CalculatorService.Models/bin/Debug/netstandard2.0/CalculatorService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/CalculatorService.Models/bin/Debug/netstandard2.0/CalculatorService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/CalculatorService.Models/obj/Debug/netstandard2.0/CalculatorService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/CalculatorService.Models/obj/Debug/netstandard2.0/CalculatorService.Models.pdb

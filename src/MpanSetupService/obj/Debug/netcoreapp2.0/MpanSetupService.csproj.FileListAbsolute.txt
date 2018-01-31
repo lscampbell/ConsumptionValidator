@@ -1,0 +1,15 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/obj/Debug/netcoreapp2.0/MpanSetupService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/obj/Debug/netcoreapp2.0/MpanSetupService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/obj/Debug/netcoreapp2.0/MpanSetupService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/MpanSetupService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/MpanSetupService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/MpanSetupService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/MpanSetupService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/MpanSetupService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/LoggingService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/MpanSetupService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/MpanSetupService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/bin/Debug/netcoreapp2.0/LoggingService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/obj/Debug/netcoreapp2.0/MpanSetupService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/obj/Debug/netcoreapp2.0/MpanSetupService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/MpanSetupService/obj/Debug/netcoreapp2.0/MpanSetupService.csprojResolveAssemblyReference.cache

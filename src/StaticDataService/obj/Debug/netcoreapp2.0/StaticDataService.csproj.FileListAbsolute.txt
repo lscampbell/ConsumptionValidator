@@ -1,0 +1,14 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/obj/Debug/netcoreapp2.0/StaticDataService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/obj/Debug/netcoreapp2.0/StaticDataService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/obj/Debug/netcoreapp2.0/StaticDataService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/StaticDataService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/StaticDataService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/StaticDataService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/StaticDataService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/StaticDataService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/LoggingService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/StaticDataService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/StaticDataService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/bin/Debug/netcoreapp2.0/LoggingService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/obj/Debug/netcoreapp2.0/StaticDataService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/StaticDataService/obj/Debug/netcoreapp2.0/StaticDataService.pdb

@@ -1,0 +1,11 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/bin/Debug/netcoreapp2.0/ConsumptionValidator.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/bin/Debug/netcoreapp2.0/ConsumptionValidator.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/bin/Debug/netcoreapp2.0/ConsumptionValidator.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/bin/Debug/netcoreapp2.0/ConsumptionValidator.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/bin/Debug/netcoreapp2.0/ConsumptionValidator.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/obj/Debug/netcoreapp2.0/ConsumptionValidator.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/obj/Debug/netcoreapp2.0/ConsumptionValidator.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/obj/Debug/netcoreapp2.0/ConsumptionValidator.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/obj/Debug/netcoreapp2.0/ConsumptionValidator.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/obj/Debug/netcoreapp2.0/ConsumptionValidator.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ConsumptionValidator/obj/Debug/netcoreapp2.0/ConsumptionValidator.csprojResolveAssemblyReference.cache

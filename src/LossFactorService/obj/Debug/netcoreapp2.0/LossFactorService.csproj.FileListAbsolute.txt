@@ -1,0 +1,15 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/obj/Debug/netcoreapp2.0/LossFactorService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/obj/Debug/netcoreapp2.0/LossFactorService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/obj/Debug/netcoreapp2.0/LossFactorService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/obj/Debug/netcoreapp2.0/LossFactorService.csprojResolveAssemblyReference.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LossFactorService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LossFactorService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LossFactorService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LossFactorService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LossFactorService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LoggingService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LossFactorService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LossFactorService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/bin/Debug/netcoreapp2.0/LoggingService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/obj/Debug/netcoreapp2.0/LossFactorService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/LossFactorService/obj/Debug/netcoreapp2.0/LossFactorService.pdb

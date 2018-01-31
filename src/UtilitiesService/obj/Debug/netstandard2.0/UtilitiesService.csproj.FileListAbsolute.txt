@@ -1,0 +1,10 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/bin/Debug/netstandard2.0/UtilitiesService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/bin/Debug/netstandard2.0/UtilitiesService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/bin/Debug/netstandard2.0/UtilitiesService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/obj/Debug/netstandard2.0/UtilitiesService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/obj/Debug/netstandard2.0/UtilitiesService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/obj/Debug/netstandard2.0/UtilitiesService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/obj/Debug/netstandard2.0/UtilitiesService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/obj/Debug/netstandard2.0/UtilitiesService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/bin/Debug/netstandard2.0/ElexonImportService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService/bin/Debug/netstandard2.0/ElexonImportService.Models.pdb

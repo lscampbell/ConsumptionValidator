@@ -1,0 +1,12 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/obj/Debug/netcoreapp2.0/DuosLossService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/obj/Debug/netcoreapp2.0/DuosLossService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/obj/Debug/netcoreapp2.0/DuosLossService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/bin/Debug/netcoreapp2.0/DuosLossService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/bin/Debug/netcoreapp2.0/DuosLossService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/bin/Debug/netcoreapp2.0/DuosLossService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/bin/Debug/netcoreapp2.0/DuosLossService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/bin/Debug/netcoreapp2.0/DuosLossService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/bin/Debug/netcoreapp2.0/DuosLossService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/bin/Debug/netcoreapp2.0/DuosLossService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/obj/Debug/netcoreapp2.0/DuosLossService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/DuosLossService/obj/Debug/netcoreapp2.0/DuosLossService.pdb

@@ -1,0 +1,12 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/bin/Debug/netcoreapp2.0/ProfileRowsService.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/bin/Debug/netcoreapp2.0/ProfileRowsService.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/bin/Debug/netcoreapp2.0/ProfileRowsService.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/bin/Debug/netcoreapp2.0/ProfileRowsService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/bin/Debug/netcoreapp2.0/ProfileRowsService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/bin/Debug/netcoreapp2.0/ProfileRowsService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/bin/Debug/netcoreapp2.0/ProfileRowsService.Models.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/obj/Debug/netcoreapp2.0/ProfileRowsService.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/obj/Debug/netcoreapp2.0/ProfileRowsService.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/obj/Debug/netcoreapp2.0/ProfileRowsService.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/obj/Debug/netcoreapp2.0/ProfileRowsService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/ProfileRowsService/obj/Debug/netcoreapp2.0/ProfileRowsService.pdb

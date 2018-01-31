@@ -1,0 +1,17 @@
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/UtilitiesService.Tests.deps.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/UtilitiesService.Tests.runtimeconfig.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/UtilitiesService.Tests.runtimeconfig.dev.json
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/UtilitiesService.Tests.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/UtilitiesService.Tests.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/UtilitiesService.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/UtilitiesService.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/obj/Debug/netcoreapp2.0/UtilitiesService.Tests.csproj.CoreCompileInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/obj/Debug/netcoreapp2.0/UtilitiesService.Tests.AssemblyInfoInputs.cache
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/obj/Debug/netcoreapp2.0/UtilitiesService.Tests.AssemblyInfo.cs
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/obj/Debug/netcoreapp2.0/UtilitiesService.Tests.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/obj/Debug/netcoreapp2.0/UtilitiesService.Tests.pdb
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/ElexonImportService.Models.dll
+/Users/leecampbell/Projects/ConsumptionValidator/src/UtilitiesService.Tests/bin/Debug/netcoreapp2.0/ElexonImportService.Models.pdb
